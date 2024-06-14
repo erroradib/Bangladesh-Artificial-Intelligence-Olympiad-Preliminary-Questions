@@ -2,7 +2,7 @@
 
 This repository contains the questions and solutions to selected problems from the Bangladesh AI Olympiad (Preliminary). The main language used for the solutions is Python.
 
-`I ranked 38th LOL`
+[I ranked 38th LOL](https://toph.co/c/bd-artificial-intelligence-olympiad-preliminary/standings)
 
 ## Questions
 
